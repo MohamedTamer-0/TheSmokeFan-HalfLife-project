@@ -12,9 +12,9 @@ The main goal of this circuit is to keep an eye on the air quality. When the sen
 * **0 to 30m**  
   I was setting everything up, verifying requirements, and installing Hackclub tools and authentication.
 
-  <img width="1662" height="933" alt="image" src="https://github.com" />
+  <img width="1662" height="933" alt="image" src="https://github.com/user-attachments/assets/2a429706-3d81-4636-b72a-d970d000d371"/>
 
 * **30m to 2h**  
   I made my plan for today, then downloaded and set up KiCad from the [official website](https://kicad.org). After that, I started learning the basics from a [KiCad Guide Video](https://youtube.com). This is a screenshot of what I have done so far; it is not the final project yet, as I am still learning the software.
 
-  <img width="642" height="681" alt="image" src="https://github.com" />
+  <img width="642" height="681" alt="image" src="https://github.com/user-attachments/assets/4becbd99-3bb1-4d8b-a59a-6c9a5b4fe26f" />
