@@ -33,6 +33,12 @@ The main goal of this circuit is to keep an eye on the air quality. When the sen
   Switched to the PCB Editor, then downloaded a library for the LED, and this is the result. 
 
   <img width="1074" height="847" alt="image" src="https://github.com/user-attachments/assets/a1474242-bc1c-4be8-877e-6a8c164f71e5" />
+* **3.1h to 8.17h**
+  
+  Since the ultrasonic device didn't have a footprint, I created a custom one and assembled the entire board.
+
+  <img width="489" height="600" alt="image" src="https://github.com/user-attachments/assets/ed909a17-e4fe-4217-92c0-cf3c3002071b" />
+
 
 
 
