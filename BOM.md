@@ -15,7 +15,7 @@
 | [SI01606](https://www.amazon.eg/gp/product/B0G8M3CL3N/ref=ox_sc_act_title_16?smid=A3I50F97WSYAVL&psc=1) | Welding | 1 | $4.66 | $4.66 | [Angko](https://www.amazon.eg/gp/product/B0G8M3CL3N/ref=ox_sc_act_title_16?smid=A3I50F97WSYAVL&psc=1) |
 | [Solder Core wire](https://www.amazon.eg/gp/product/B0GHJ81HMJ/ref=ox_sc_act_title_15?smid=A2C0GF04J1IEM3&psc=1) | Solder wire | 1 | $9.45 | $9.45 | [Generic](https://www.amazon.eg/gp/product/B0GHJ81HMJ/ref=ox_sc_act_title_15?smid=A2C0GF04J1IEM3&psc=1) |
 | **Parts subtotal** | — | — | — | **$14.11** | — |
-| **Tax & shipping** | — | — | — | **$7.25** | — |
-| **Total** | — | — | — | **$21.36** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$14.11** | — |
 
-$43.64 left of the tier's funding.
+$50.89 left of the tier's funding.
