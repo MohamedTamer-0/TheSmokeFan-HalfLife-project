@@ -39,6 +39,8 @@ The main goal of this circuit is to keep an eye on the air quality. When the sen
 
   <img width="489" height="600" alt="image" src="https://github.com/user-attachments/assets/ed909a17-e4fe-4217-92c0-cf3c3002071b" />
 
+ **Learning is DONE! Let's get into our stuff.** 
+
 
 
 
